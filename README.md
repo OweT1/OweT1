@@ -4,6 +4,6 @@ I am Owen, a current Year 4 Data Science and Analytics student at NUS (National 
 
 Mainly interested in Data Science / Machine Learning.
 
-My Personal Website: [](https://owet1.github.io/personal-website/).
+My Personal Website: ()[https://owet1.github.io/personal-website/].
 
 You can reach to me via Email (owentan2021@gmail.com / owen.tan@u.nus.edu) or Telegram (@OwenTanKL)!
